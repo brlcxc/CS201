@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 6\Program 6\Program 6\main.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  function.cpp
+  Generating Code...
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 6\Program 6\Program 6\function.cpp(44): warning C4715: 'CandyGame': not all control paths return a value
+  Program 6.vcxproj -> C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 6\Program 6\x64\Debug\Program 6.exe
