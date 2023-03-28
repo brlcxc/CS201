@@ -1,5 +1,0 @@
-﻿  Main.cpp
-C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 5\Program 5\Program 5\Main.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Video.cpp
-  Generating Code...
-  Program 5.vcxproj -> C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 5\Program 5\x64\Debug\Program 5.exe
