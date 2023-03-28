@@ -1,0 +1,3 @@
+﻿  checkingmodule.cpp
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 3\Program 3\checkingmodule.cpp(27,34): warning C4018: '<': signed/unsigned mismatch
+  Program 3.vcxproj -> C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 3\Debug\Program 3.exe

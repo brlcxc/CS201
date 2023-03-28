@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 2\Program 2\Source.cpp(29,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 2\Program 2\Source.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Program 2.vcxproj -> C:\Personal\UMKC\UMKC Spring 2022\CS201\Programs 201\Program 2\Debug\Program 2.exe
